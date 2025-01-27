@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\COMP367001_Lab1-Toleran_Q3.props" />
+</Project>
